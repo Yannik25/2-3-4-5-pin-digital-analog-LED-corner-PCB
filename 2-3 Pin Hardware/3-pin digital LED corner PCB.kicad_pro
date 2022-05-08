@@ -382,7 +382,7 @@
     "last_paths": {
       "gencad": "",
       "idf": "",
-      "netlist": "",
+      "netlist": "3-pin digital LED corner PCB.net",
       "specctra_dsn": "",
       "step": "",
       "vrml": ""
